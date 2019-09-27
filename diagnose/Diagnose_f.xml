@@ -1,0 +1,2286 @@
+<Diagnoses>
+  <Diagnosis>
+    <DiagnosisCode>A000 Cholera due to Vibrio cholerae 01, biovar cholerae</DiagnosisCode>
+    <DiagnosisName>Cholera due to Vibrio cholerae 01, biovar cholerae</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A001 Cholera due to Vibrio cholerae 01, biovar eltor</DiagnosisCode>
+    <DiagnosisName>Cholera due to Vibrio cholerae 01, biovar eltor</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A009 Cholera, unspecified</DiagnosisCode>
+    <DiagnosisName>Cholera, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0100 Typhoid fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Typhoid fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0101 Typhoid meningitis</DiagnosisCode>
+    <DiagnosisName>Typhoid meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0102 Typhoid fever with heart involvement</DiagnosisCode>
+    <DiagnosisName>Typhoid fever with heart involvement</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0103 Typhoid pneumonia</DiagnosisCode>
+    <DiagnosisName>Typhoid pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0104 Typhoid arthritis</DiagnosisCode>
+    <DiagnosisName>Typhoid arthritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0105 Typhoid osteomyelitis</DiagnosisCode>
+    <DiagnosisName>Typhoid osteomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0109 Typhoid fever with other complications</DiagnosisCode>
+    <DiagnosisName>Typhoid fever with other complications</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A011 Paratyphoid fever A</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever A</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A012 Paratyphoid fever B</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever B</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A013 Paratyphoid fever C</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever C</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A014 Paratyphoid fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A020 Salmonella enteritis</DiagnosisCode>
+    <DiagnosisName>Salmonella enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A021 Salmonella sepsis</DiagnosisCode>
+    <DiagnosisName>Salmonella sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0220 Localized salmonella infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Localized salmonella infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0221 Salmonella meningitis</DiagnosisCode>
+    <DiagnosisName>Salmonella meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0222 Salmonella pneumonia</DiagnosisCode>
+    <DiagnosisName>Salmonella pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0223 Salmonella arthritis</DiagnosisCode>
+    <DiagnosisName>Salmonella arthritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0224 Salmonella osteomyelitis</DiagnosisCode>
+    <DiagnosisName>Salmonella osteomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0225 Salmonella pyelonephritis</DiagnosisCode>
+    <DiagnosisName>Salmonella pyelonephritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0229 Salmonella with other localized infection</DiagnosisCode>
+    <DiagnosisName>Salmonella with other localized infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A028 Other specified salmonella infections</DiagnosisCode>
+    <DiagnosisName>Other specified salmonella infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A029 Salmonella infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Salmonella infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A030 Shigellosis due to Shigella dysenteriae</DiagnosisCode>
+    <DiagnosisName>Shigellosis due to Shigella dysenteriae</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A031 Shigellosis due to Shigella flexneri</DiagnosisCode>
+    <DiagnosisName>Shigellosis due to Shigella flexneri</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A032 Shigellosis due to Shigella boydii</DiagnosisCode>
+    <DiagnosisName>Shigellosis due to Shigella boydii</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A033 Shigellosis due to Shigella sonnei</DiagnosisCode>
+    <DiagnosisName>Shigellosis due to Shigella sonnei</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A038 Other shigellosis</DiagnosisCode>
+    <DiagnosisName>Other shigellosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A039 Shigellosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Shigellosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A040 Enteropathogenic Escherichia coli infection</DiagnosisCode>
+    <DiagnosisName>Enteropathogenic Escherichia coli infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A041 Enterotoxigenic Escherichia coli infection</DiagnosisCode>
+    <DiagnosisName>Enterotoxigenic Escherichia coli infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A042 Enteroinvasive Escherichia coli infection</DiagnosisCode>
+    <DiagnosisName>Enteroinvasive Escherichia coli infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A043 Enterohemorrhagic Escherichia coli infection</DiagnosisCode>
+    <DiagnosisName>Enterohemorrhagic Escherichia coli infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A044 Other intestinal Escherichia coli infections</DiagnosisCode>
+    <DiagnosisName>Other intestinal Escherichia coli infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A045 Campylobacter enteritis</DiagnosisCode>
+    <DiagnosisName>Campylobacter enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A046 Enteritis due to Yersinia enterocolitica</DiagnosisCode>
+    <DiagnosisName>Enteritis due to Yersinia enterocolitica</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A047 Enterocolitis due to Clostridium difficile</DiagnosisCode>
+    <DiagnosisName>Enterocolitis due to Clostridium difficile</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0471 Enterocolitis due to Clostridium difficile, recurrent</DiagnosisCode>
+    <DiagnosisName>Enterocolitis due to Clostridium difficile, recurrent</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0472 Enterocolitis d/t Clostridium difficile, not spcf as recur</DiagnosisCode>
+    <DiagnosisName>Enterocolitis d/t Clostridium difficile, not spcf as recur</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A048 Other specified bacterial intestinal infections</DiagnosisCode>
+    <DiagnosisName>Other specified bacterial intestinal infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A049 Bacterial intestinal infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Bacterial intestinal infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A050 Foodborne staphylococcal intoxication</DiagnosisCode>
+    <DiagnosisName>Foodborne staphylococcal intoxication</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A051 Botulism food poisoning</DiagnosisCode>
+    <DiagnosisName>Botulism food poisoning</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A052 Foodborne Clostridium perfringens intoxication</DiagnosisCode>
+    <DiagnosisName>Foodborne Clostridium perfringens intoxication</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A053 Foodborne Vibrio parahaemolyticus intoxication</DiagnosisCode>
+    <DiagnosisName>Foodborne Vibrio parahaemolyticus intoxication</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A054 Foodborne Bacillus cereus intoxication</DiagnosisCode>
+    <DiagnosisName>Foodborne Bacillus cereus intoxication</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A055 Foodborne Vibrio vulnificus intoxication</DiagnosisCode>
+    <DiagnosisName>Foodborne Vibrio vulnificus intoxication</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A058 Other specified bacterial foodborne intoxications</DiagnosisCode>
+    <DiagnosisName>Other specified bacterial foodborne intoxications</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A059 Bacterial foodborne intoxication, unspecified</DiagnosisCode>
+    <DiagnosisName>Bacterial foodborne intoxication, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A060 Acute amebic dysentery</DiagnosisCode>
+    <DiagnosisName>Acute amebic dysentery</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A061 Chronic intestinal amebiasis</DiagnosisCode>
+    <DiagnosisName>Chronic intestinal amebiasis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A062 Amebic nondysenteric colitis</DiagnosisCode>
+    <DiagnosisName>Amebic nondysenteric colitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A063 Ameboma of intestine</DiagnosisCode>
+    <DiagnosisName>Ameboma of intestine</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A064 Amebic liver abscess</DiagnosisCode>
+    <DiagnosisName>Amebic liver abscess</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A065 Amebic lung abscess</DiagnosisCode>
+    <DiagnosisName>Amebic lung abscess</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A066 Amebic brain abscess</DiagnosisCode>
+    <DiagnosisName>Amebic brain abscess</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A067 Cutaneous amebiasis</DiagnosisCode>
+    <DiagnosisName>Cutaneous amebiasis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0681 Amebic cystitis</DiagnosisCode>
+    <DiagnosisName>Amebic cystitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0682 Other amebic genitourinary infections</DiagnosisCode>
+    <DiagnosisName>Other amebic genitourinary infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0689 Other amebic infections</DiagnosisCode>
+    <DiagnosisName>Other amebic infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A069 Amebiasis, unspecified</DiagnosisCode>
+    <DiagnosisName>Amebiasis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A070 Balantidiasis</DiagnosisCode>
+    <DiagnosisName>Balantidiasis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A071 Giardiasis [lambliasis]</DiagnosisCode>
+    <DiagnosisName>Giardiasis [lambliasis]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A072 Cryptosporidiosis</DiagnosisCode>
+    <DiagnosisName>Cryptosporidiosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A073 Isosporiasis</DiagnosisCode>
+    <DiagnosisName>Isosporiasis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A074 Cyclosporiasis</DiagnosisCode>
+    <DiagnosisName>Cyclosporiasis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A078 Other specified protozoal intestinal diseases</DiagnosisCode>
+    <DiagnosisName>Other specified protozoal intestinal diseases</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A079 Protozoal intestinal disease, unspecified</DiagnosisCode>
+    <DiagnosisName>Protozoal intestinal disease, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A080 Rotaviral enteritis</DiagnosisCode>
+    <DiagnosisName>Rotaviral enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0811 Acute gastroenteropathy due to Norwalk agent</DiagnosisCode>
+    <DiagnosisName>Acute gastroenteropathy due to Norwalk agent</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0819 Acute gastroenteropathy due to other small round viruses</DiagnosisCode>
+    <DiagnosisName>Acute gastroenteropathy due to other small round viruses</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A082 Adenoviral enteritis</DiagnosisCode>
+    <DiagnosisName>Adenoviral enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0831 Calicivirus enteritis</DiagnosisCode>
+    <DiagnosisName>Calicivirus enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0832 Astrovirus enteritis</DiagnosisCode>
+    <DiagnosisName>Astrovirus enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0839 Other viral enteritis</DiagnosisCode>
+    <DiagnosisName>Other viral enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A084 Viral intestinal infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Viral intestinal infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A088 Other specified intestinal infections</DiagnosisCode>
+    <DiagnosisName>Other specified intestinal infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A09 Infectious gastroenteritis and colitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Infectious gastroenteritis and colitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A150 Tuberculosis of lung</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of lung</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A154 Tuberculosis of intrathoracic lymph nodes</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of intrathoracic lymph nodes</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A155 Tuberculosis of larynx, trachea and bronchus</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of larynx, trachea and bronchus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A156 Tuberculous pleurisy</DiagnosisCode>
+    <DiagnosisName>Tuberculous pleurisy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A157 Primary respiratory tuberculosis</DiagnosisCode>
+    <DiagnosisName>Primary respiratory tuberculosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A158 Other respiratory tuberculosis</DiagnosisCode>
+    <DiagnosisName>Other respiratory tuberculosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A159 Respiratory tuberculosis unspecified</DiagnosisCode>
+    <DiagnosisName>Respiratory tuberculosis unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A170 Tuberculous meningitis</DiagnosisCode>
+    <DiagnosisName>Tuberculous meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A171 Meningeal tuberculoma</DiagnosisCode>
+    <DiagnosisName>Meningeal tuberculoma</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1781 Tuberculoma of brain and spinal cord</DiagnosisCode>
+    <DiagnosisName>Tuberculoma of brain and spinal cord</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1782 Tuberculous meningoencephalitis</DiagnosisCode>
+    <DiagnosisName>Tuberculous meningoencephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1783 Tuberculous neuritis</DiagnosisCode>
+    <DiagnosisName>Tuberculous neuritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1789 Other tuberculosis of nervous system</DiagnosisCode>
+    <DiagnosisName>Other tuberculosis of nervous system</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A179 Tuberculosis of nervous system, unspecified</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of nervous system, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1801 Tuberculosis of spine</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of spine</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1802 Tuberculous arthritis of other joints</DiagnosisCode>
+    <DiagnosisName>Tuberculous arthritis of other joints</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1803 Tuberculosis of other bones</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of other bones</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1809 Other musculoskeletal tuberculosis</DiagnosisCode>
+    <DiagnosisName>Other musculoskeletal tuberculosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1810 Tuberculosis of genitourinary system, unspecified</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of genitourinary system, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1811 Tuberculosis of kidney and ureter</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of kidney and ureter</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1812 Tuberculosis of bladder</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of bladder</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1813 Tuberculosis of other urinary organs</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of other urinary organs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1814 Tuberculosis of prostate</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of prostate</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1815 Tuberculosis of other male genital organs</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of other male genital organs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1816 Tuberculosis of cervix</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of cervix</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1817 Tuberculous female pelvic inflammatory disease</DiagnosisCode>
+    <DiagnosisName>Tuberculous female pelvic inflammatory disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1818 Tuberculosis of other female genital organs</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of other female genital organs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A182 Tuberculous peripheral lymphadenopathy</DiagnosisCode>
+    <DiagnosisName>Tuberculous peripheral lymphadenopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1831 Tuberculous peritonitis</DiagnosisCode>
+    <DiagnosisName>Tuberculous peritonitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1832 Tuberculous enteritis</DiagnosisCode>
+    <DiagnosisName>Tuberculous enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1839 Retroperitoneal tuberculosis</DiagnosisCode>
+    <DiagnosisName>Retroperitoneal tuberculosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A184 Tuberculosis of skin and subcutaneous tissue</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of skin and subcutaneous tissue</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1850 Tuberculosis of eye, unspecified</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of eye, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1851 Tuberculous episcleritis</DiagnosisCode>
+    <DiagnosisName>Tuberculous episcleritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1852 Tuberculous keratitis</DiagnosisCode>
+    <DiagnosisName>Tuberculous keratitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1853 Tuberculous chorioretinitis</DiagnosisCode>
+    <DiagnosisName>Tuberculous chorioretinitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1854 Tuberculous iridocyclitis</DiagnosisCode>
+    <DiagnosisName>Tuberculous iridocyclitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1859 Other tuberculosis of eye</DiagnosisCode>
+    <DiagnosisName>Other tuberculosis of eye</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A186 Tuberculosis of (inner) (middle) ear</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of (inner) (middle) ear</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A187 Tuberculosis of adrenal glands</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of adrenal glands</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1881 Tuberculosis of thyroid gland</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of thyroid gland</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1882 Tuberculosis of other endocrine glands</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of other endocrine glands</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1883 Tuberculosis of digestive tract organs, NEC</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of digestive tract organs, NEC</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1884 Tuberculosis of heart</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of heart</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1885 Tuberculosis of spleen</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of spleen</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A1889 Tuberculosis of other sites</DiagnosisCode>
+    <DiagnosisName>Tuberculosis of other sites</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A190 Acute miliary tuberculosis of a single specified site</DiagnosisCode>
+    <DiagnosisName>Acute miliary tuberculosis of a single specified site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A191 Acute miliary tuberculosis of multiple sites</DiagnosisCode>
+    <DiagnosisName>Acute miliary tuberculosis of multiple sites</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A192 Acute miliary tuberculosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Acute miliary tuberculosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A198 Other miliary tuberculosis</DiagnosisCode>
+    <DiagnosisName>Other miliary tuberculosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A199 Miliary tuberculosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Miliary tuberculosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A200 Bubonic plague</DiagnosisCode>
+    <DiagnosisName>Bubonic plague</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A201 Cellulocutaneous plague</DiagnosisCode>
+    <DiagnosisName>Cellulocutaneous plague</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A202 Pneumonic plague</DiagnosisCode>
+    <DiagnosisName>Pneumonic plague</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A203 Plague meningitis</DiagnosisCode>
+    <DiagnosisName>Plague meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A207 Septicemic plague</DiagnosisCode>
+    <DiagnosisName>Septicemic plague</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A208 Other forms of plague</DiagnosisCode>
+    <DiagnosisName>Other forms of plague</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A209 Plague, unspecified</DiagnosisCode>
+    <DiagnosisName>Plague, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A210 Ulceroglandular tularemia</DiagnosisCode>
+    <DiagnosisName>Ulceroglandular tularemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A211 Oculoglandular tularemia</DiagnosisCode>
+    <DiagnosisName>Oculoglandular tularemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A212 Pulmonary tularemia</DiagnosisCode>
+    <DiagnosisName>Pulmonary tularemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A213 Gastrointestinal tularemia</DiagnosisCode>
+    <DiagnosisName>Gastrointestinal tularemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A217 Generalized tularemia</DiagnosisCode>
+    <DiagnosisName>Generalized tularemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A218 Other forms of tularemia</DiagnosisCode>
+    <DiagnosisName>Other forms of tularemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A219 Tularemia, unspecified</DiagnosisCode>
+    <DiagnosisName>Tularemia, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A220 Cutaneous anthrax</DiagnosisCode>
+    <DiagnosisName>Cutaneous anthrax</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A221 Pulmonary anthrax</DiagnosisCode>
+    <DiagnosisName>Pulmonary anthrax</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A222 Gastrointestinal anthrax</DiagnosisCode>
+    <DiagnosisName>Gastrointestinal anthrax</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A227 Anthrax sepsis</DiagnosisCode>
+    <DiagnosisName>Anthrax sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A228 Other forms of anthrax</DiagnosisCode>
+    <DiagnosisName>Other forms of anthrax</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A229 Anthrax, unspecified</DiagnosisCode>
+    <DiagnosisName>Anthrax, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A230 Brucellosis due to Brucella melitensis</DiagnosisCode>
+    <DiagnosisName>Brucellosis due to Brucella melitensis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A231 Brucellosis due to Brucella abortus</DiagnosisCode>
+    <DiagnosisName>Brucellosis due to Brucella abortus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A232 Brucellosis due to Brucella suis</DiagnosisCode>
+    <DiagnosisName>Brucellosis due to Brucella suis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A233 Brucellosis due to Brucella canis</DiagnosisCode>
+    <DiagnosisName>Brucellosis due to Brucella canis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A238 Other brucellosis</DiagnosisCode>
+    <DiagnosisName>Other brucellosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A239 Brucellosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Brucellosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A240 Glanders</DiagnosisCode>
+    <DiagnosisName>Glanders</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A241 Acute and fulminating melioidosis</DiagnosisCode>
+    <DiagnosisName>Acute and fulminating melioidosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A242 Subacute and chronic melioidosis</DiagnosisCode>
+    <DiagnosisName>Subacute and chronic melioidosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A243 Other melioidosis</DiagnosisCode>
+    <DiagnosisName>Other melioidosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A249 Melioidosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Melioidosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A250 Spirillosis</DiagnosisCode>
+    <DiagnosisName>Spirillosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A251 Streptobacillosis</DiagnosisCode>
+    <DiagnosisName>Streptobacillosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A259 Rat-bite fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Rat-bite fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A260 Cutaneous erysipeloid</DiagnosisCode>
+    <DiagnosisName>Cutaneous erysipeloid</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A267 Erysipelothrix sepsis</DiagnosisCode>
+    <DiagnosisName>Erysipelothrix sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A268 Other forms of erysipeloid</DiagnosisCode>
+    <DiagnosisName>Other forms of erysipeloid</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A269 Erysipeloid, unspecified</DiagnosisCode>
+    <DiagnosisName>Erysipeloid, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A270 Leptospirosis icterohemorrhagica</DiagnosisCode>
+    <DiagnosisName>Leptospirosis icterohemorrhagica</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A2781 Aseptic meningitis in leptospirosis</DiagnosisCode>
+    <DiagnosisName>Aseptic meningitis in leptospirosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A2789 Other forms of leptospirosis</DiagnosisCode>
+    <DiagnosisName>Other forms of leptospirosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A279 Leptospirosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Leptospirosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A280 Pasteurellosis</DiagnosisCode>
+    <DiagnosisName>Pasteurellosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A281 Cat-scratch disease</DiagnosisCode>
+    <DiagnosisName>Cat-scratch disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A282 Extraintestinal yersiniosis</DiagnosisCode>
+    <DiagnosisName>Extraintestinal yersiniosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A288 Oth zoonotic bacterial diseases, not elsewhere classified</DiagnosisCode>
+    <DiagnosisName>Oth zoonotic bacterial diseases, not elsewhere classified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A289 Zoonotic bacterial disease, unspecified</DiagnosisCode>
+    <DiagnosisName>Zoonotic bacterial disease, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A300 Indeterminate leprosy</DiagnosisCode>
+    <DiagnosisName>Indeterminate leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A301 Tuberculoid leprosy</DiagnosisCode>
+    <DiagnosisName>Tuberculoid leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A302 Borderline tuberculoid leprosy</DiagnosisCode>
+    <DiagnosisName>Borderline tuberculoid leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A303 Borderline leprosy</DiagnosisCode>
+    <DiagnosisName>Borderline leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A304 Borderline lepromatous leprosy</DiagnosisCode>
+    <DiagnosisName>Borderline lepromatous leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A305 Lepromatous leprosy</DiagnosisCode>
+    <DiagnosisName>Lepromatous leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A308 Other forms of leprosy</DiagnosisCode>
+    <DiagnosisName>Other forms of leprosy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A309 Leprosy, unspecified</DiagnosisCode>
+    <DiagnosisName>Leprosy, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A310 Pulmonary mycobacterial infection</DiagnosisCode>
+    <DiagnosisName>Pulmonary mycobacterial infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A311 Cutaneous mycobacterial infection</DiagnosisCode>
+    <DiagnosisName>Cutaneous mycobacterial infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A312 Dissem mycobacterium avium-intracellulare complex (DMAC)</DiagnosisCode>
+    <DiagnosisName>Dissem mycobacterium avium-intracellulare complex (DMAC)</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A318 Other mycobacterial infections</DiagnosisCode>
+    <DiagnosisName>Other mycobacterial infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A319 Mycobacterial infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Mycobacterial infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A320 Cutaneous listeriosis</DiagnosisCode>
+    <DiagnosisName>Cutaneous listeriosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3211 Listerial meningitis</DiagnosisCode>
+    <DiagnosisName>Listerial meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3212 Listerial meningoencephalitis</DiagnosisCode>
+    <DiagnosisName>Listerial meningoencephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A327 Listerial sepsis</DiagnosisCode>
+    <DiagnosisName>Listerial sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3281 Oculoglandular listeriosis</DiagnosisCode>
+    <DiagnosisName>Oculoglandular listeriosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3282 Listerial endocarditis</DiagnosisCode>
+    <DiagnosisName>Listerial endocarditis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3289 Other forms of listeriosis</DiagnosisCode>
+    <DiagnosisName>Other forms of listeriosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A329 Listeriosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Listeriosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A33 Tetanus neonatorum</DiagnosisCode>
+    <DiagnosisName>Tetanus neonatorum</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A34 Obstetrical tetanus</DiagnosisCode>
+    <DiagnosisName>Obstetrical tetanus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A35 Other tetanus</DiagnosisCode>
+    <DiagnosisName>Other tetanus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A360 Pharyngeal diphtheria</DiagnosisCode>
+    <DiagnosisName>Pharyngeal diphtheria</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A361 Nasopharyngeal diphtheria</DiagnosisCode>
+    <DiagnosisName>Nasopharyngeal diphtheria</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A362 Laryngeal diphtheria</DiagnosisCode>
+    <DiagnosisName>Laryngeal diphtheria</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A363 Cutaneous diphtheria</DiagnosisCode>
+    <DiagnosisName>Cutaneous diphtheria</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3681 Diphtheritic cardiomyopathy</DiagnosisCode>
+    <DiagnosisName>Diphtheritic cardiomyopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3682 Diphtheritic radiculomyelitis</DiagnosisCode>
+    <DiagnosisName>Diphtheritic radiculomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3683 Diphtheritic polyneuritis</DiagnosisCode>
+    <DiagnosisName>Diphtheritic polyneuritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3684 Diphtheritic tubulo-interstitial nephropathy</DiagnosisCode>
+    <DiagnosisName>Diphtheritic tubulo-interstitial nephropathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3685 Diphtheritic cystitis</DiagnosisCode>
+    <DiagnosisName>Diphtheritic cystitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3686 Diphtheritic conjunctivitis</DiagnosisCode>
+    <DiagnosisName>Diphtheritic conjunctivitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3689 Other diphtheritic complications</DiagnosisCode>
+    <DiagnosisName>Other diphtheritic complications</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A369 Diphtheria, unspecified</DiagnosisCode>
+    <DiagnosisName>Diphtheria, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3700 Whooping cough due to Bordetella pertussis without pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough due to Bordetella pertussis without pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3701 Whooping cough due to Bordetella pertussis with pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough due to Bordetella pertussis with pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3710 Whooping cough due to Bordetella parapertussis w/o pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough due to Bordetella parapertussis w/o pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3711 Whooping cough due to Bordetella parapertussis w pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough due to Bordetella parapertussis w pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3780 Whooping cough due to other Bordetella species w/o pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough due to other Bordetella species w/o pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3781 Whooping cough due to oth Bordetella species with pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough due to oth Bordetella species with pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3790 Whooping cough, unspecified species without pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough, unspecified species without pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3791 Whooping cough, unspecified species with pneumonia</DiagnosisCode>
+    <DiagnosisName>Whooping cough, unspecified species with pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A380 Scarlet fever with otitis media</DiagnosisCode>
+    <DiagnosisName>Scarlet fever with otitis media</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A381 Scarlet fever with myocarditis</DiagnosisCode>
+    <DiagnosisName>Scarlet fever with myocarditis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A388 Scarlet fever with other complications</DiagnosisCode>
+    <DiagnosisName>Scarlet fever with other complications</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A389 Scarlet fever, uncomplicated</DiagnosisCode>
+    <DiagnosisName>Scarlet fever, uncomplicated</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A390 Meningococcal meningitis</DiagnosisCode>
+    <DiagnosisName>Meningococcal meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A391 Waterhouse-Friderichsen syndrome</DiagnosisCode>
+    <DiagnosisName>Waterhouse-Friderichsen syndrome</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A392 Acute meningococcemia</DiagnosisCode>
+    <DiagnosisName>Acute meningococcemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A393 Chronic meningococcemia</DiagnosisCode>
+    <DiagnosisName>Chronic meningococcemia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A394 Meningococcemia, unspecified</DiagnosisCode>
+    <DiagnosisName>Meningococcemia, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3950 Meningococcal carditis, unspecified</DiagnosisCode>
+    <DiagnosisName>Meningococcal carditis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3951 Meningococcal endocarditis</DiagnosisCode>
+    <DiagnosisName>Meningococcal endocarditis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3952 Meningococcal myocarditis</DiagnosisCode>
+    <DiagnosisName>Meningococcal myocarditis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3953 Meningococcal pericarditis</DiagnosisCode>
+    <DiagnosisName>Meningococcal pericarditis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3981 Meningococcal encephalitis</DiagnosisCode>
+    <DiagnosisName>Meningococcal encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3982 Meningococcal retrobulbar neuritis</DiagnosisCode>
+    <DiagnosisName>Meningococcal retrobulbar neuritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3983 Meningococcal arthritis</DiagnosisCode>
+    <DiagnosisName>Meningococcal arthritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3984 Postmeningococcal arthritis</DiagnosisCode>
+    <DiagnosisName>Postmeningococcal arthritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A3989 Other meningococcal infections</DiagnosisCode>
+    <DiagnosisName>Other meningococcal infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A399 Meningococcal infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Meningococcal infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A400 Sepsis due to streptococcus, group A</DiagnosisCode>
+    <DiagnosisName>Sepsis due to streptococcus, group A</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A401 Sepsis due to streptococcus, group B</DiagnosisCode>
+    <DiagnosisName>Sepsis due to streptococcus, group B</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A403 Sepsis due to Streptococcus pneumoniae</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Streptococcus pneumoniae</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A408 Other streptococcal sepsis</DiagnosisCode>
+    <DiagnosisName>Other streptococcal sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A409 Streptococcal sepsis, unspecified</DiagnosisCode>
+    <DiagnosisName>Streptococcal sepsis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4101 Sepsis due to Methicillin susceptible Staphylococcus aureus</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Methicillin susceptible Staphylococcus aureus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4102 Sepsis due to Methicillin resistant Staphylococcus aureus</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Methicillin resistant Staphylococcus aureus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A411 Sepsis due to other specified staphylococcus</DiagnosisCode>
+    <DiagnosisName>Sepsis due to other specified staphylococcus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A412 Sepsis due to unspecified staphylococcus</DiagnosisCode>
+    <DiagnosisName>Sepsis due to unspecified staphylococcus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A413 Sepsis due to Hemophilus influenzae</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Hemophilus influenzae</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A414 Sepsis due to anaerobes</DiagnosisCode>
+    <DiagnosisName>Sepsis due to anaerobes</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4150 Gram-negative sepsis, unspecified</DiagnosisCode>
+    <DiagnosisName>Gram-negative sepsis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4151 Sepsis due to Escherichia coli [E. coli]</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Escherichia coli [E. coli]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4152 Sepsis due to Pseudomonas</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Pseudomonas</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4153 Sepsis due to Serratia</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Serratia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4159 Other Gram-negative sepsis</DiagnosisCode>
+    <DiagnosisName>Other Gram-negative sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4181 Sepsis due to Enterococcus</DiagnosisCode>
+    <DiagnosisName>Sepsis due to Enterococcus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4189 Other specified sepsis</DiagnosisCode>
+    <DiagnosisName>Other specified sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A419 Sepsis, unspecified organism</DiagnosisCode>
+    <DiagnosisName>Sepsis, unspecified organism</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A420 Pulmonary actinomycosis</DiagnosisCode>
+    <DiagnosisName>Pulmonary actinomycosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A421 Abdominal actinomycosis</DiagnosisCode>
+    <DiagnosisName>Abdominal actinomycosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A422 Cervicofacial actinomycosis</DiagnosisCode>
+    <DiagnosisName>Cervicofacial actinomycosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A427 Actinomycotic sepsis</DiagnosisCode>
+    <DiagnosisName>Actinomycotic sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4281 Actinomycotic meningitis</DiagnosisCode>
+    <DiagnosisName>Actinomycotic meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4282 Actinomycotic encephalitis</DiagnosisCode>
+    <DiagnosisName>Actinomycotic encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4289 Other forms of actinomycosis</DiagnosisCode>
+    <DiagnosisName>Other forms of actinomycosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A429 Actinomycosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Actinomycosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A430 Pulmonary nocardiosis</DiagnosisCode>
+    <DiagnosisName>Pulmonary nocardiosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A431 Cutaneous nocardiosis</DiagnosisCode>
+    <DiagnosisName>Cutaneous nocardiosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A438 Other forms of nocardiosis</DiagnosisCode>
+    <DiagnosisName>Other forms of nocardiosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A439 Nocardiosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Nocardiosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A440 Systemic bartonellosis</DiagnosisCode>
+    <DiagnosisName>Systemic bartonellosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A441 Cutaneous and mucocutaneous bartonellosis</DiagnosisCode>
+    <DiagnosisName>Cutaneous and mucocutaneous bartonellosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A448 Other forms of bartonellosis</DiagnosisCode>
+    <DiagnosisName>Other forms of bartonellosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A449 Bartonellosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Bartonellosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A46 Erysipelas</DiagnosisCode>
+    <DiagnosisName>Erysipelas</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A480 Gas gangrene</DiagnosisCode>
+    <DiagnosisName>Gas gangrene</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A481 Legionnaires' disease</DiagnosisCode>
+    <DiagnosisName>Legionnaires' disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A482 Nonpneumonic Legionnaires' disease [Pontiac fever]</DiagnosisCode>
+    <DiagnosisName>Nonpneumonic Legionnaires' disease [Pontiac fever]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A483 Toxic shock syndrome</DiagnosisCode>
+    <DiagnosisName>Toxic shock syndrome</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A484 Brazilian purpuric fever</DiagnosisCode>
+    <DiagnosisName>Brazilian purpuric fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4851 Infant botulism</DiagnosisCode>
+    <DiagnosisName>Infant botulism</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4852 Wound botulism</DiagnosisCode>
+    <DiagnosisName>Wound botulism</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A488 Other specified bacterial diseases</DiagnosisCode>
+    <DiagnosisName>Other specified bacterial diseases</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4901 Methicillin suscep staph infection, unsp site</DiagnosisCode>
+    <DiagnosisName>Methicillin suscep staph infection, unsp site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A4902 Methicillin resis staph infection, unsp site</DiagnosisCode>
+    <DiagnosisName>Methicillin resis staph infection, unsp site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A491 Streptococcal infection, unspecified site</DiagnosisCode>
+    <DiagnosisName>Streptococcal infection, unspecified site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A492 Hemophilus influenzae infection, unspecified site</DiagnosisCode>
+    <DiagnosisName>Hemophilus influenzae infection, unspecified site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A493 Mycoplasma infection, unspecified site</DiagnosisCode>
+    <DiagnosisName>Mycoplasma infection, unspecified site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A498 Other bacterial infections of unspecified site</DiagnosisCode>
+    <DiagnosisName>Other bacterial infections of unspecified site</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A499 Bacterial infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Bacterial infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5001 Early congenital syphilitic oculopathy</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilitic oculopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5002 Early congenital syphilitic osteochondropathy</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilitic osteochondropathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5003 Early congenital syphilitic pharyngitis</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilitic pharyngitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5004 Early congenital syphilitic pneumonia</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilitic pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5005 Early congenital syphilitic rhinitis</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilitic rhinitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5006 Early cutaneous congenital syphilis</DiagnosisCode>
+    <DiagnosisName>Early cutaneous congenital syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5007 Early mucocutaneous congenital syphilis</DiagnosisCode>
+    <DiagnosisName>Early mucocutaneous congenital syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5008 Early visceral congenital syphilis</DiagnosisCode>
+    <DiagnosisName>Early visceral congenital syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5009 Other early congenital syphilis, symptomatic</DiagnosisCode>
+    <DiagnosisName>Other early congenital syphilis, symptomatic</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A501 Early congenital syphilis, latent</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilis, latent</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A502 Early congenital syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Early congenital syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5030 Late congenital syphilitic oculopathy, unspecified</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic oculopathy, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5031 Late congenital syphilitic interstitial keratitis</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic interstitial keratitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5032 Late congenital syphilitic chorioretinitis</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic chorioretinitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5039 Other late congenital syphilitic oculopathy</DiagnosisCode>
+    <DiagnosisName>Other late congenital syphilitic oculopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5040 Late congenital neurosyphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Late congenital neurosyphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5041 Late congenital syphilitic meningitis</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5042 Late congenital syphilitic encephalitis</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5043 Late congenital syphilitic polyneuropathy</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic polyneuropathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5044 Late congenital syphilitic optic nerve atrophy</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic optic nerve atrophy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5045 Juvenile general paresis</DiagnosisCode>
+    <DiagnosisName>Juvenile general paresis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5049 Other late congenital neurosyphilis</DiagnosisCode>
+    <DiagnosisName>Other late congenital neurosyphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5051 Clutton's joints</DiagnosisCode>
+    <DiagnosisName>Clutton's joints</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5052 Hutchinson's teeth</DiagnosisCode>
+    <DiagnosisName>Hutchinson's teeth</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5053 Hutchinson's triad</DiagnosisCode>
+    <DiagnosisName>Hutchinson's triad</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5054 Late congenital cardiovascular syphilis</DiagnosisCode>
+    <DiagnosisName>Late congenital cardiovascular syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5055 Late congenital syphilitic arthropathy</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic arthropathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5056 Late congenital syphilitic osteochondropathy</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilitic osteochondropathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5057 Syphilitic saddle nose</DiagnosisCode>
+    <DiagnosisName>Syphilitic saddle nose</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5059 Other late congenital syphilis, symptomatic</DiagnosisCode>
+    <DiagnosisName>Other late congenital syphilis, symptomatic</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A506 Late congenital syphilis, latent</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilis, latent</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A507 Late congenital syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Late congenital syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A509 Congenital syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Congenital syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A510 Primary genital syphilis</DiagnosisCode>
+    <DiagnosisName>Primary genital syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A511 Primary anal syphilis</DiagnosisCode>
+    <DiagnosisName>Primary anal syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A512 Primary syphilis of other sites</DiagnosisCode>
+    <DiagnosisName>Primary syphilis of other sites</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5131 Condyloma latum</DiagnosisCode>
+    <DiagnosisName>Condyloma latum</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5132 Syphilitic alopecia</DiagnosisCode>
+    <DiagnosisName>Syphilitic alopecia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5139 Other secondary syphilis of skin</DiagnosisCode>
+    <DiagnosisName>Other secondary syphilis of skin</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5141 Secondary syphilitic meningitis</DiagnosisCode>
+    <DiagnosisName>Secondary syphilitic meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5142 Secondary syphilitic female pelvic disease</DiagnosisCode>
+    <DiagnosisName>Secondary syphilitic female pelvic disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5143 Secondary syphilitic oculopathy</DiagnosisCode>
+    <DiagnosisName>Secondary syphilitic oculopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5144 Secondary syphilitic nephritis</DiagnosisCode>
+    <DiagnosisName>Secondary syphilitic nephritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5145 Secondary syphilitic hepatitis</DiagnosisCode>
+    <DiagnosisName>Secondary syphilitic hepatitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5146 Secondary syphilitic osteopathy</DiagnosisCode>
+    <DiagnosisName>Secondary syphilitic osteopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5149 Other secondary syphilitic conditions</DiagnosisCode>
+    <DiagnosisName>Other secondary syphilitic conditions</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A515 Early syphilis, latent</DiagnosisCode>
+    <DiagnosisName>Early syphilis, latent</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A519 Early syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Early syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5200 Cardiovascular syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Cardiovascular syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5201 Syphilitic aneurysm of aorta</DiagnosisCode>
+    <DiagnosisName>Syphilitic aneurysm of aorta</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5202 Syphilitic aortitis</DiagnosisCode>
+    <DiagnosisName>Syphilitic aortitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5203 Syphilitic endocarditis</DiagnosisCode>
+    <DiagnosisName>Syphilitic endocarditis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5204 Syphilitic cerebral arteritis</DiagnosisCode>
+    <DiagnosisName>Syphilitic cerebral arteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5205 Other cerebrovascular syphilis</DiagnosisCode>
+    <DiagnosisName>Other cerebrovascular syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5206 Other syphilitic heart involvement</DiagnosisCode>
+    <DiagnosisName>Other syphilitic heart involvement</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5209 Other cardiovascular syphilis</DiagnosisCode>
+    <DiagnosisName>Other cardiovascular syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5210 Symptomatic neurosyphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Symptomatic neurosyphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5211 Tabes dorsalis</DiagnosisCode>
+    <DiagnosisName>Tabes dorsalis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5212 Other cerebrospinal syphilis</DiagnosisCode>
+    <DiagnosisName>Other cerebrospinal syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5213 Late syphilitic meningitis</DiagnosisCode>
+    <DiagnosisName>Late syphilitic meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5214 Late syphilitic encephalitis</DiagnosisCode>
+    <DiagnosisName>Late syphilitic encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5215 Late syphilitic neuropathy</DiagnosisCode>
+    <DiagnosisName>Late syphilitic neuropathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5216 Charcot's arthropathy (tabetic)</DiagnosisCode>
+    <DiagnosisName>Charcot's arthropathy (tabetic)</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5217 General paresis</DiagnosisCode>
+    <DiagnosisName>General paresis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5219 Other symptomatic neurosyphilis</DiagnosisCode>
+    <DiagnosisName>Other symptomatic neurosyphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A522 Asymptomatic neurosyphilis</DiagnosisCode>
+    <DiagnosisName>Asymptomatic neurosyphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A523 Neurosyphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Neurosyphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5271 Late syphilitic oculopathy</DiagnosisCode>
+    <DiagnosisName>Late syphilitic oculopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5272 Syphilis of lung and bronchus</DiagnosisCode>
+    <DiagnosisName>Syphilis of lung and bronchus</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5273 Symptomatic late syphilis of other respiratory organs</DiagnosisCode>
+    <DiagnosisName>Symptomatic late syphilis of other respiratory organs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5274 Syphilis of liver and other viscera</DiagnosisCode>
+    <DiagnosisName>Syphilis of liver and other viscera</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5275 Syphilis of kidney and ureter</DiagnosisCode>
+    <DiagnosisName>Syphilis of kidney and ureter</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5276 Other genitourinary symptomatic late syphilis</DiagnosisCode>
+    <DiagnosisName>Other genitourinary symptomatic late syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5277 Syphilis of bone and joint</DiagnosisCode>
+    <DiagnosisName>Syphilis of bone and joint</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5278 Syphilis of other musculoskeletal tissue</DiagnosisCode>
+    <DiagnosisName>Syphilis of other musculoskeletal tissue</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5279 Other symptomatic late syphilis</DiagnosisCode>
+    <DiagnosisName>Other symptomatic late syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A528 Late syphilis, latent</DiagnosisCode>
+    <DiagnosisName>Late syphilis, latent</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A529 Late syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Late syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A530 Latent syphilis, unspecified as early or late</DiagnosisCode>
+    <DiagnosisName>Latent syphilis, unspecified as early or late</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A539 Syphilis, unspecified</DiagnosisCode>
+    <DiagnosisName>Syphilis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5400 Gonococcal infection of lower genitourinary tract, unsp</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of lower genitourinary tract, unsp</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5401 Gonococcal cystitis and urethritis, unspecified</DiagnosisCode>
+    <DiagnosisName>Gonococcal cystitis and urethritis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5402 Gonococcal vulvovaginitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Gonococcal vulvovaginitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5403 Gonococcal cervicitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Gonococcal cervicitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5409 Other gonococcal infection of lower genitourinary tract</DiagnosisCode>
+    <DiagnosisName>Other gonococcal infection of lower genitourinary tract</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A541 Gonocl infct of lower GU tract w periureth and acc glnd abcs</DiagnosisCode>
+    <DiagnosisName>Gonocl infct of lower GU tract w periureth and acc glnd abcs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5421 Gonococcal infection of kidney and ureter</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of kidney and ureter</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5422 Gonococcal prostatitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal prostatitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5423 Gonococcal infection of other male genital organs</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of other male genital organs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5424 Gonococcal female pelvic inflammatory disease</DiagnosisCode>
+    <DiagnosisName>Gonococcal female pelvic inflammatory disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5429 Other gonococcal genitourinary infections</DiagnosisCode>
+    <DiagnosisName>Other gonococcal genitourinary infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5430 Gonococcal infection of eye, unspecified</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of eye, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5431 Gonococcal conjunctivitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal conjunctivitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5432 Gonococcal iridocyclitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal iridocyclitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5433 Gonococcal keratitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal keratitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5439 Other gonococcal eye infection</DiagnosisCode>
+    <DiagnosisName>Other gonococcal eye infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5440 Gonococcal infection of musculoskeletal system, unspecified</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of musculoskeletal system, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5441 Gonococcal spondylopathy</DiagnosisCode>
+    <DiagnosisName>Gonococcal spondylopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5442 Gonococcal arthritis</DiagnosisCode>
+    <DiagnosisName>Gonococcal arthritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5443 Gonococcal osteomyelitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal osteomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5449 Gonococcal infection of other musculoskeletal tissue</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of other musculoskeletal tissue</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A545 Gonococcal pharyngitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal pharyngitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A546 Gonococcal infection of anus and rectum</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection of anus and rectum</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5481 Gonococcal meningitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5482 Gonococcal brain abscess</DiagnosisCode>
+    <DiagnosisName>Gonococcal brain abscess</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5483 Gonococcal heart infection</DiagnosisCode>
+    <DiagnosisName>Gonococcal heart infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5484 Gonococcal pneumonia</DiagnosisCode>
+    <DiagnosisName>Gonococcal pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5485 Gonococcal peritonitis</DiagnosisCode>
+    <DiagnosisName>Gonococcal peritonitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5486 Gonococcal sepsis</DiagnosisCode>
+    <DiagnosisName>Gonococcal sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5489 Other gonococcal infections</DiagnosisCode>
+    <DiagnosisName>Other gonococcal infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A549 Gonococcal infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Gonococcal infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A55 Chlamydial lymphogranuloma (venereum)</DiagnosisCode>
+    <DiagnosisName>Chlamydial lymphogranuloma (venereum)</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5600 Chlamydial infection of lower genitourinary tract, unsp</DiagnosisCode>
+    <DiagnosisName>Chlamydial infection of lower genitourinary tract, unsp</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5601 Chlamydial cystitis and urethritis</DiagnosisCode>
+    <DiagnosisName>Chlamydial cystitis and urethritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5602 Chlamydial vulvovaginitis</DiagnosisCode>
+    <DiagnosisName>Chlamydial vulvovaginitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5609 Other chlamydial infection of lower genitourinary tract</DiagnosisCode>
+    <DiagnosisName>Other chlamydial infection of lower genitourinary tract</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5611 Chlamydial female pelvic inflammatory disease</DiagnosisCode>
+    <DiagnosisName>Chlamydial female pelvic inflammatory disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5619 Other chlamydial genitourinary infection</DiagnosisCode>
+    <DiagnosisName>Other chlamydial genitourinary infection</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A562 Chlamydial infection of genitourinary tract, unspecified</DiagnosisCode>
+    <DiagnosisName>Chlamydial infection of genitourinary tract, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A563 Chlamydial infection of anus and rectum</DiagnosisCode>
+    <DiagnosisName>Chlamydial infection of anus and rectum</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A564 Chlamydial infection of pharynx</DiagnosisCode>
+    <DiagnosisName>Chlamydial infection of pharynx</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A568 Sexually transmitted chlamydial infection of other sites</DiagnosisCode>
+    <DiagnosisName>Sexually transmitted chlamydial infection of other sites</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A57 Chancroid</DiagnosisCode>
+    <DiagnosisName>Chancroid</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A58 Granuloma inguinale</DiagnosisCode>
+    <DiagnosisName>Granuloma inguinale</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5900 Urogenital trichomoniasis, unspecified</DiagnosisCode>
+    <DiagnosisName>Urogenital trichomoniasis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5901 Trichomonal vulvovaginitis</DiagnosisCode>
+    <DiagnosisName>Trichomonal vulvovaginitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5902 Trichomonal prostatitis</DiagnosisCode>
+    <DiagnosisName>Trichomonal prostatitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5903 Trichomonal cystitis and urethritis</DiagnosisCode>
+    <DiagnosisName>Trichomonal cystitis and urethritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A5909 Other urogenital trichomoniasis</DiagnosisCode>
+    <DiagnosisName>Other urogenital trichomoniasis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A598 Trichomoniasis of other sites</DiagnosisCode>
+    <DiagnosisName>Trichomoniasis of other sites</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A599 Trichomoniasis, unspecified</DiagnosisCode>
+    <DiagnosisName>Trichomoniasis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6000 Herpesviral infection of urogenital system, unspecified</DiagnosisCode>
+    <DiagnosisName>Herpesviral infection of urogenital system, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6001 Herpesviral infection of penis</DiagnosisCode>
+    <DiagnosisName>Herpesviral infection of penis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6002 Herpesviral infection of other male genital organs</DiagnosisCode>
+    <DiagnosisName>Herpesviral infection of other male genital organs</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6003 Herpesviral cervicitis</DiagnosisCode>
+    <DiagnosisName>Herpesviral cervicitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6004 Herpesviral vulvovaginitis</DiagnosisCode>
+    <DiagnosisName>Herpesviral vulvovaginitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6009 Herpesviral infection of other urogenital tract</DiagnosisCode>
+    <DiagnosisName>Herpesviral infection of other urogenital tract</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A601 Herpesviral infection of perianal skin and rectum</DiagnosisCode>
+    <DiagnosisName>Herpesviral infection of perianal skin and rectum</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A609 Anogenital herpesviral infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Anogenital herpesviral infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A630 Anogenital (venereal) warts</DiagnosisCode>
+    <DiagnosisName>Anogenital (venereal) warts</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A638 Other specified predominantly sexually transmitted diseases</DiagnosisCode>
+    <DiagnosisName>Other specified predominantly sexually transmitted diseases</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A64 Unspecified sexually transmitted disease</DiagnosisCode>
+    <DiagnosisName>Unspecified sexually transmitted disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A65 Nonvenereal syphilis</DiagnosisCode>
+    <DiagnosisName>Nonvenereal syphilis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A660 Initial lesions of yaws</DiagnosisCode>
+    <DiagnosisName>Initial lesions of yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A661 Multiple papillomata and wet crab yaws</DiagnosisCode>
+    <DiagnosisName>Multiple papillomata and wet crab yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A662 Other early skin lesions of yaws</DiagnosisCode>
+    <DiagnosisName>Other early skin lesions of yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A663 Hyperkeratosis of yaws</DiagnosisCode>
+    <DiagnosisName>Hyperkeratosis of yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A664 Gummata and ulcers of yaws</DiagnosisCode>
+    <DiagnosisName>Gummata and ulcers of yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A665 Gangosa</DiagnosisCode>
+    <DiagnosisName>Gangosa</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A666 Bone and joint lesions of yaws</DiagnosisCode>
+    <DiagnosisName>Bone and joint lesions of yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A667 Other manifestations of yaws</DiagnosisCode>
+    <DiagnosisName>Other manifestations of yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A668 Latent yaws</DiagnosisCode>
+    <DiagnosisName>Latent yaws</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A669 Yaws, unspecified</DiagnosisCode>
+    <DiagnosisName>Yaws, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A670 Primary lesions of pinta</DiagnosisCode>
+    <DiagnosisName>Primary lesions of pinta</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A671 Intermediate lesions of pinta</DiagnosisCode>
+    <DiagnosisName>Intermediate lesions of pinta</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A672 Late lesions of pinta</DiagnosisCode>
+    <DiagnosisName>Late lesions of pinta</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A673 Mixed lesions of pinta</DiagnosisCode>
+    <DiagnosisName>Mixed lesions of pinta</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A679 Pinta, unspecified</DiagnosisCode>
+    <DiagnosisName>Pinta, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A680 Louse-borne relapsing fever</DiagnosisCode>
+    <DiagnosisName>Louse-borne relapsing fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A681 Tick-borne relapsing fever</DiagnosisCode>
+    <DiagnosisName>Tick-borne relapsing fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A689 Relapsing fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Relapsing fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A690 Necrotizing ulcerative stomatitis</DiagnosisCode>
+    <DiagnosisName>Necrotizing ulcerative stomatitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A691 Other Vincent's infections</DiagnosisCode>
+    <DiagnosisName>Other Vincent's infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6920 Lyme disease, unspecified</DiagnosisCode>
+    <DiagnosisName>Lyme disease, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6921 Meningitis due to Lyme disease</DiagnosisCode>
+    <DiagnosisName>Meningitis due to Lyme disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6922 Other neurologic disorders in Lyme disease</DiagnosisCode>
+    <DiagnosisName>Other neurologic disorders in Lyme disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6923 Arthritis due to Lyme disease</DiagnosisCode>
+    <DiagnosisName>Arthritis due to Lyme disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A6929 Other conditions associated with Lyme disease</DiagnosisCode>
+    <DiagnosisName>Other conditions associated with Lyme disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A698 Other specified spirochetal infections</DiagnosisCode>
+    <DiagnosisName>Other specified spirochetal infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A699 Spirochetal infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Spirochetal infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A70 Chlamydia psittaci infections</DiagnosisCode>
+    <DiagnosisName>Chlamydia psittaci infections</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A710 Initial stage of trachoma</DiagnosisCode>
+    <DiagnosisName>Initial stage of trachoma</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A711 Active stage of trachoma</DiagnosisCode>
+    <DiagnosisName>Active stage of trachoma</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A719 Trachoma, unspecified</DiagnosisCode>
+    <DiagnosisName>Trachoma, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A740 Chlamydial conjunctivitis</DiagnosisCode>
+    <DiagnosisName>Chlamydial conjunctivitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7481 Chlamydial peritonitis</DiagnosisCode>
+    <DiagnosisName>Chlamydial peritonitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7489 Other chlamydial diseases</DiagnosisCode>
+    <DiagnosisName>Other chlamydial diseases</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A749 Chlamydial infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Chlamydial infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A750 Epidemic louse-borne typhus fever d/t Rickettsia prowazekii</DiagnosisCode>
+    <DiagnosisName>Epidemic louse-borne typhus fever d/t Rickettsia prowazekii</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A751 Recrudescent typhus [Brill's disease]</DiagnosisCode>
+    <DiagnosisName>Recrudescent typhus [Brill's disease]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A752 Typhus fever due to Rickettsia typhi</DiagnosisCode>
+    <DiagnosisName>Typhus fever due to Rickettsia typhi</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A753 Typhus fever due to Rickettsia tsutsugamushi</DiagnosisCode>
+    <DiagnosisName>Typhus fever due to Rickettsia tsutsugamushi</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A759 Typhus fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Typhus fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A770 Spotted fever due to Rickettsia rickettsii</DiagnosisCode>
+    <DiagnosisName>Spotted fever due to Rickettsia rickettsii</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A771 Spotted fever due to Rickettsia conorii</DiagnosisCode>
+    <DiagnosisName>Spotted fever due to Rickettsia conorii</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A772 Spotted fever due to Rickettsia siberica</DiagnosisCode>
+    <DiagnosisName>Spotted fever due to Rickettsia siberica</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A773 Spotted fever due to Rickettsia australis</DiagnosisCode>
+    <DiagnosisName>Spotted fever due to Rickettsia australis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7740 Ehrlichiosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Ehrlichiosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7741 Ehrlichiosis chafeensis [E. chafeensis]</DiagnosisCode>
+    <DiagnosisName>Ehrlichiosis chafeensis [E. chafeensis]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7749 Other ehrlichiosis</DiagnosisCode>
+    <DiagnosisName>Other ehrlichiosis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A778 Other spotted fevers</DiagnosisCode>
+    <DiagnosisName>Other spotted fevers</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A779 Spotted fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Spotted fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A78 Q fever</DiagnosisCode>
+    <DiagnosisName>Q fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A790 Trench fever</DiagnosisCode>
+    <DiagnosisName>Trench fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A791 Rickettsialpox due to Rickettsia akari</DiagnosisCode>
+    <DiagnosisName>Rickettsialpox due to Rickettsia akari</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7981 Rickettsiosis due to Ehrlichia sennetsu</DiagnosisCode>
+    <DiagnosisName>Rickettsiosis due to Ehrlichia sennetsu</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A7989 Other specified rickettsioses</DiagnosisCode>
+    <DiagnosisName>Other specified rickettsioses</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A799 Rickettsiosis, unspecified</DiagnosisCode>
+    <DiagnosisName>Rickettsiosis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A800 Acute paralytic poliomyelitis, vaccine-associated</DiagnosisCode>
+    <DiagnosisName>Acute paralytic poliomyelitis, vaccine-associated</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A801 Acute paralytic poliomyelitis, wild virus, imported</DiagnosisCode>
+    <DiagnosisName>Acute paralytic poliomyelitis, wild virus, imported</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A802 Acute paralytic poliomyelitis, wild virus, indigenous</DiagnosisCode>
+    <DiagnosisName>Acute paralytic poliomyelitis, wild virus, indigenous</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8030 Acute paralytic poliomyelitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Acute paralytic poliomyelitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8039 Other acute paralytic poliomyelitis</DiagnosisCode>
+    <DiagnosisName>Other acute paralytic poliomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A804 Acute nonparalytic poliomyelitis</DiagnosisCode>
+    <DiagnosisName>Acute nonparalytic poliomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A809 Acute poliomyelitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Acute poliomyelitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8100 Creutzfeldt-Jakob disease, unspecified</DiagnosisCode>
+    <DiagnosisName>Creutzfeldt-Jakob disease, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8101 Variant Creutzfeldt-Jakob disease</DiagnosisCode>
+    <DiagnosisName>Variant Creutzfeldt-Jakob disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8109 Other Creutzfeldt-Jakob disease</DiagnosisCode>
+    <DiagnosisName>Other Creutzfeldt-Jakob disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A811 Subacute sclerosing panencephalitis</DiagnosisCode>
+    <DiagnosisName>Subacute sclerosing panencephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A812 Progressive multifocal leukoencephalopathy</DiagnosisCode>
+    <DiagnosisName>Progressive multifocal leukoencephalopathy</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8181 Kuru</DiagnosisCode>
+    <DiagnosisName>Kuru</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8182 Gerstmann-Straussler-Scheinker syndrome</DiagnosisCode>
+    <DiagnosisName>Gerstmann-Straussler-Scheinker syndrome</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8183 Fatal familial insomnia</DiagnosisCode>
+    <DiagnosisName>Fatal familial insomnia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A8189 Other atypical virus infections of central nervous system</DiagnosisCode>
+    <DiagnosisName>Other atypical virus infections of central nervous system</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A819 Atypical virus infection of central nervous system, unsp</DiagnosisCode>
+    <DiagnosisName>Atypical virus infection of central nervous system, unsp</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A820 Sylvatic rabies</DiagnosisCode>
+    <DiagnosisName>Sylvatic rabies</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A821 Urban rabies</DiagnosisCode>
+    <DiagnosisName>Urban rabies</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A829 Rabies, unspecified</DiagnosisCode>
+    <DiagnosisName>Rabies, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A830 Japanese encephalitis</DiagnosisCode>
+    <DiagnosisName>Japanese encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A831 Western equine encephalitis</DiagnosisCode>
+    <DiagnosisName>Western equine encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A832 Eastern equine encephalitis</DiagnosisCode>
+    <DiagnosisName>Eastern equine encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A833 St Louis encephalitis</DiagnosisCode>
+    <DiagnosisName>St Louis encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A834 Australian encephalitis</DiagnosisCode>
+    <DiagnosisName>Australian encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A835 California encephalitis</DiagnosisCode>
+    <DiagnosisName>California encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A836 Rocio virus disease</DiagnosisCode>
+    <DiagnosisName>Rocio virus disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A838 Other mosquito-borne viral encephalitis</DiagnosisCode>
+    <DiagnosisName>Other mosquito-borne viral encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A839 Mosquito-borne viral encephalitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Mosquito-borne viral encephalitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A840 Far Eastern tick-borne encephalitis</DiagnosisCode>
+    <DiagnosisName>Far Eastern tick-borne encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A841 Central European tick-borne encephalitis</DiagnosisCode>
+    <DiagnosisName>Central European tick-borne encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A848 Other tick-borne viral encephalitis</DiagnosisCode>
+    <DiagnosisName>Other tick-borne viral encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A849 Tick-borne viral encephalitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Tick-borne viral encephalitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A850 Enteroviral encephalitis</DiagnosisCode>
+    <DiagnosisName>Enteroviral encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A851 Adenoviral encephalitis</DiagnosisCode>
+    <DiagnosisName>Adenoviral encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A852 Arthropod-borne viral encephalitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Arthropod-borne viral encephalitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A858 Other specified viral encephalitis</DiagnosisCode>
+    <DiagnosisName>Other specified viral encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A86 Unspecified viral encephalitis</DiagnosisCode>
+    <DiagnosisName>Unspecified viral encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A870 Enteroviral meningitis</DiagnosisCode>
+    <DiagnosisName>Enteroviral meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A871 Adenoviral meningitis</DiagnosisCode>
+    <DiagnosisName>Adenoviral meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A872 Lymphocytic choriomeningitis</DiagnosisCode>
+    <DiagnosisName>Lymphocytic choriomeningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A878 Other viral meningitis</DiagnosisCode>
+    <DiagnosisName>Other viral meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A879 Viral meningitis, unspecified</DiagnosisCode>
+    <DiagnosisName>Viral meningitis, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A880 Enteroviral exanthematous fever [Boston exanthem]</DiagnosisCode>
+    <DiagnosisName>Enteroviral exanthematous fever [Boston exanthem]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A881 Epidemic vertigo</DiagnosisCode>
+    <DiagnosisName>Epidemic vertigo</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A888 Other specified viral infections of central nervous system</DiagnosisCode>
+    <DiagnosisName>Other specified viral infections of central nervous system</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A89 Unspecified viral infection of central nervous system</DiagnosisCode>
+    <DiagnosisName>Unspecified viral infection of central nervous system</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A90 Dengue fever [classical dengue]</DiagnosisCode>
+    <DiagnosisName>Dengue fever [classical dengue]</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A91 Dengue hemorrhagic fever</DiagnosisCode>
+    <DiagnosisName>Dengue hemorrhagic fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A920 Chikungunya virus disease</DiagnosisCode>
+    <DiagnosisName>Chikungunya virus disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A921 O'nyong-nyong fever</DiagnosisCode>
+    <DiagnosisName>O'nyong-nyong fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A922 Venezuelan equine fever</DiagnosisCode>
+    <DiagnosisName>Venezuelan equine fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A9230 West Nile virus infection, unspecified</DiagnosisCode>
+    <DiagnosisName>West Nile virus infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A9231 West Nile virus infection with encephalitis</DiagnosisCode>
+    <DiagnosisName>West Nile virus infection with encephalitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A9232 West Nile virus infection with oth neurologic manifestation</DiagnosisCode>
+    <DiagnosisName>West Nile virus infection with oth neurologic manifestation</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A9239 West Nile virus infection with other complications</DiagnosisCode>
+    <DiagnosisName>West Nile virus infection with other complications</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A924 Rift Valley fever</DiagnosisCode>
+    <DiagnosisName>Rift Valley fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A925 Zika virus disease</DiagnosisCode>
+    <DiagnosisName>Zika virus disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A928 Other specified mosquito-borne viral fevers</DiagnosisCode>
+    <DiagnosisName>Other specified mosquito-borne viral fevers</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A929 Mosquito-borne viral fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Mosquito-borne viral fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A930 Oropouche virus disease</DiagnosisCode>
+    <DiagnosisName>Oropouche virus disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A931 Sandfly fever</DiagnosisCode>
+    <DiagnosisName>Sandfly fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A932 Colorado tick fever</DiagnosisCode>
+    <DiagnosisName>Colorado tick fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A938 Other specified arthropod-borne viral fevers</DiagnosisCode>
+    <DiagnosisName>Other specified arthropod-borne viral fevers</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A94 Unspecified arthropod-borne viral fever</DiagnosisCode>
+    <DiagnosisName>Unspecified arthropod-borne viral fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A950 Sylvatic yellow fever</DiagnosisCode>
+    <DiagnosisName>Sylvatic yellow fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A951 Urban yellow fever</DiagnosisCode>
+    <DiagnosisName>Urban yellow fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A959 Yellow fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Yellow fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A960 Junin hemorrhagic fever</DiagnosisCode>
+    <DiagnosisName>Junin hemorrhagic fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A961 Machupo hemorrhagic fever</DiagnosisCode>
+    <DiagnosisName>Machupo hemorrhagic fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A962 Lassa fever</DiagnosisCode>
+    <DiagnosisName>Lassa fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A968 Other arenaviral hemorrhagic fevers</DiagnosisCode>
+    <DiagnosisName>Other arenaviral hemorrhagic fevers</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A969 Arenaviral hemorrhagic fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Arenaviral hemorrhagic fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A980 Crimean-Congo hemorrhagic fever</DiagnosisCode>
+    <DiagnosisName>Crimean-Congo hemorrhagic fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A981 Omsk hemorrhagic fever</DiagnosisCode>
+    <DiagnosisName>Omsk hemorrhagic fever</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A982 Kyasanur Forest disease</DiagnosisCode>
+    <DiagnosisName>Kyasanur Forest disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A983 Marburg virus disease</DiagnosisCode>
+    <DiagnosisName>Marburg virus disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A984 Ebola virus disease</DiagnosisCode>
+    <DiagnosisName>Ebola virus disease</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A985 Hemorrhagic fever with renal syndrome</DiagnosisCode>
+    <DiagnosisName>Hemorrhagic fever with renal syndrome</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A988 Other specified viral hemorrhagic fevers</DiagnosisCode>
+    <DiagnosisName>Other specified viral hemorrhagic fevers</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A99 Unspecified viral hemorrhagic fever</DiagnosisCode>
+    <DiagnosisName>Unspecified viral hemorrhagic fever</DiagnosisName>
+  </Diagnosis>
+</Diagnoses>

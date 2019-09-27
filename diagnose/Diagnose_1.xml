@@ -1,0 +1,82 @@
+<Diagnoses>
+  <Diagnosis>
+    <DiagnosisCode>A000 Cholera due to Vibrio cholerae 01, biovar cholerae</DiagnosisCode>
+    <DiagnosisName>Cholera due to Vibrio cholerae 01, biovar cholerae</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A001 Cholera due to Vibrio cholerae 01, biovar eltor</DiagnosisCode>
+    <DiagnosisName>Cholera due to Vibrio cholerae 01, biovar eltor</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A009 Cholera, unspecified</DiagnosisCode>
+    <DiagnosisName>Cholera, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0100 Typhoid fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Typhoid fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0101 Typhoid meningitis</DiagnosisCode>
+    <DiagnosisName>Typhoid meningitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0102 Typhoid fever with heart involvement</DiagnosisCode>
+    <DiagnosisName>Typhoid fever with heart involvement</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0103 Typhoid pneumonia</DiagnosisCode>
+    <DiagnosisName>Typhoid pneumonia</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0104 Typhoid arthritis</DiagnosisCode>
+    <DiagnosisName>Typhoid arthritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0105 Typhoid osteomyelitis</DiagnosisCode>
+    <DiagnosisName>Typhoid osteomyelitis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0109 Typhoid fever with other complications</DiagnosisCode>
+    <DiagnosisName>Typhoid fever with other complications</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A011 Paratyphoid fever A</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever A</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A012 Paratyphoid fever B</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever B</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A013 Paratyphoid fever C</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever C</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A014 Paratyphoid fever, unspecified</DiagnosisCode>
+    <DiagnosisName>Paratyphoid fever, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A020 Salmonella enteritis</DiagnosisCode>
+    <DiagnosisName>Salmonella enteritis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A021 Salmonella sepsis</DiagnosisCode>
+    <DiagnosisName>Salmonella sepsis</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0220 Localized salmonella infection, unspecified</DiagnosisCode>
+    <DiagnosisName>Localized salmonella infection, unspecified</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0221 Salmonella meningitis updated</DiagnosisCode>
+    <DiagnosisName>Salmonella meningitis updated</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0222 Salmonella pneumonia updated</DiagnosisCode>
+    <DiagnosisName>Salmonella pneumonia updated</DiagnosisName>
+  </Diagnosis>
+  <Diagnosis>
+    <DiagnosisCode>A0223 Salmonella arthritis updated</DiagnosisCode>
+    <DiagnosisName>Salmonella arthritis updated</DiagnosisName>
+  </Diagnosis>
+</Diagnoses>
