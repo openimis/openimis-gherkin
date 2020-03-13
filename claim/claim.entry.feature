@@ -128,3 +128,17 @@ When the user change the "Explanation" field of a item row
 Then  the system should should set the "Explanation" field of the item row to the entered value
 
 Rule: saving a claim
+
+Scenario: saving a claim
+Given modularIMIS is used
+When the user click on "Save"
+Then the claim should saved
+
+scenario: Refresh a saved claim
+Given modularIMIS is used
+Given that the claim was previously saved
+When the user click on refresh
+Then the "print" and "attachement" button should appear
+
+ 
+
