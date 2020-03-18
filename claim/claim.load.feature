@@ -27,24 +27,30 @@ When the user click on the active part @CM1 claim row in the result area (first 
 Then the claim screen should be loaded with the @CM1 claim details
 
 Rule: print a claim
+
 Scenario: print a claim
-When the user click on the print buton, 
-then  a PDF version of the claim should be generated 
+Given that a claim @CM1 is loaded
+When the user click on the print button, 
+Then  a PDF version of the claim should be generated 
 And the download should start
 
 Rule: add attachement
 
 Scenario: add attachement screen 
+Given that a claim @CM1 is loaded
 When the user click and the attachement button
 Then the "attachement" modal need to apear
 
 Scenario:  set data for the attached file
-Given the "add attachement screen" is displayed
+Given that a claim @CM1 is loaded
+And the "add attachement screen" is displayed
 When the user enter the "Title", "Type", "Date"
 And click on the "+"
 Then the windows to select a file should appear
 
 Scenario: attach a file
-Given that the "windows to select a file" appeared
+Given that a claim @CM1 is loaded
+And the "add attachement screen" is displayed 
+And that the "windows to select a file" appeared
 When the user select a file
 Then the file is added to the claim with the "Title", "Type", "Date" provided by the user

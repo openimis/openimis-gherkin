@@ -38,7 +38,7 @@ Then the claim with [idle] in the review status and having a value above the mea
 
 Scenario: Selecting @per1 percent of the claim 
 Given the user have a Claim administrator role
-Given there is claims with [Checked] status on @HF1 and with the review status to [idle]
+And there is claims with [Checked] status on @HF1 and with the review status to [idle]
 When the user select [review select] in "criteria details" in the Claim selection update
 And checked the "Variance" check box 
 And  enter the the @var1 in the value fields
@@ -49,7 +49,7 @@ Rule: Claim selection update should [idle] feedback status to [selected]
 
 Scenario: Selecting all the claim with a value above @val1 for feedback
 Given the user have a Claim administrator role
-Given there is claims with [Checked] status on @HF1 and with the feedback status to [idle]
+And there is claims with [Checked] status on @HF1 and with the feedback status to [idle]
 When the user select [feedback select] in "criteria details" in the Claim selection update
 And checked the "Value" check box 
 And  enter the the @val1 in the value fields
@@ -58,7 +58,7 @@ Then the claim with [idle] in the feedback status and having a "value" above @va
 
 Scenario: Selecting all the claim with a value above the mean + @var1 variance
 Given the user have a Claim administrator role
-Given there is claims with [Checked] status on @HF1 and with the feedback status to [idle]
+And there is claims with [Checked] status on @HF1 and with the feedback status to [idle]
 When the user select [feedback select] in "criteria details" in the Claim selection update
 And checked the "Variance" check box 
 And  enter the the @var1 in the value fields
@@ -67,7 +67,7 @@ Then the claim with [idle] in the feedback status and having a value above the m
 
 Scenario: Selecting @per1 percent of the claim 
 Given the user have a Claim administrator role
-Given there is claims with [Checked] status on @HF1 and with the feedback status to [idle]
+And there is claims with [Checked] status on @HF1 and with the feedback status to [idle]
 When the user select [feedback select] in "criteria details" in the Claim selection update
 And checked the "Variance" check box 
 And  enter the the @var1 in the value fields

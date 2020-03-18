@@ -71,17 +71,18 @@ When the claim @CM6 is submitted by @CA
 Then the Service @SC1 of the claim @CM6 is rejected with the "error code 4"
 
 
-Rule: 4. the beneficiary already benefit from the service/item within the waiting period 
+Rule: 4. the beneficiary CANNOT benefit from the service/item within the waiting period 
 
-Scenario: 4.1 The service was already provided within the service waiting period
+Scenario: 4.1 The service cannot be provided within the item waiting period
 Given that the service @SC2 has a waiting period set
+And the waiting period is not reached (policy age smaller than waiting period & not a renewal) 
 When this service @SC2 is added to a new claim  @CM6
 And the claim @CM6 is submitted by @CA
 Then the service @SC2 must be rejected (and the claim if no other valid service/Item) with the "reason code 17"
 
-Scenario: 4.2 The Item was already provided within the item waiting period
+Scenario: 4.2 The Item cannot be provided within the item waiting period
 Given that the Item @IT2 has a waiting period set
-And the beneficiary @BE3 had the Item @IT2 already covered by his active policy @PL1 within the waiting period
+And the waiting period is not reached (policy age smaller than waiting period & not a renewal) 
 When this Item @IT2 is added to a new claim  @CM6
 And the claim @CM6 is submitted by @CA
 Then the Item @IT2 must be rejected (and the claim if no other valid service/Item) with the "reason code 17"
@@ -144,9 +145,9 @@ And the claim @CM6 is submitted
 Then the service @SC7 must be rejected with the "reason code 11"
 
 
-Rule: 10. Maximum Hospital visit limits
+Rule: 10. Maximum visit limits
 
-Scenario: 10.1 insuree having already used all her hospital visit
+Scenario: 10.1 insuree having already used all her  visit
 Given the service @SC8 is a "V" type service
 And the Hospital visit limits is already reached for the beneficiary @BE3 for his active policy @PL1
 When the service @SC8 is added to the claim @CM6
@@ -171,16 +172,14 @@ Then the Item @IT4 must be rejected (and the claim if no other valid service/Ite
 
 Rule: 12 the Item and Services must be valid 
 
-Scenario: Invalid Item (not covered by policy I guess)
-Given that the Item @IT5 exist
-And the Item @IT5 is not covered by @PL1
+Scenario: 12.1 Invalid Item 
+Given that the Item @IT5  doesn't exist for the claim date
 When the Item @IT5 is added to a new claim @CM6
 And the claim @CM6 is submitted by @CA
 Then the Item @IT5 must be rejected (and the claim if no other valid service/Item) with the "reason code 1"
 
-Scenario: Invalid service (not covered by policy I guess)
-Given that the service @SC10 exist
-And the service @SC10 is not covered by @PL1
+Scenario: 12.2 Invalid service 
+Given that the service @SC10 doesn't exist for the claim date
 When the service @SC10 is added to a new claim @CM6
 And the claim @CM6 is submitted by @CA
 Then the service @SC10 must be rejected (and the claim if no other valid service/Item) with the "reason code 1"
@@ -188,14 +187,14 @@ Then the service @SC10 must be rejected (and the claim if no other valid service
 
 Rule: 13 the Item and Services must be part of a valid price list
 
-Scenario: Item not part of a valid price list
+Scenario: 13.1 Item not part of a valid price list
 Given that the Item @IT6 exist
 And the Item @IT6 is not in a price list valid for @HF and @PL1
 When the Item @IT6 is added to a new claim @CM6
 And the claim @CM6 is submitted by @CA
 Then the Item @IT6 must be rejected (and the claim if no other valid service/Item) with the "reason code 2"
 
-Scenario: Service not part of a valid price list
+Scenario: 13.2 Service not part of a valid price list
 Given that the service @SC11 exist
 And the service @SC11 is not in a price list valid for @HF and @PL1
 When the service @SC11 is added to a new claim @CM6
@@ -204,15 +203,32 @@ Then the service @SC11 must be rejected (and the claim if no other valid service
 
 Rule: 14 the service/Item must be compatible with the care type (ec10)
 
-Scenario: Item not for the right care type (in/out patient)
+Scenario: 14.1 Item not for the right care type (in/out patient)
 Given that Item @IT7 is for an 'in-patient'
 When the Item @IT7 is added to a new claim @CM7
 And the claim @CM7 is submitted by @CA
 Then the Item @IT7 must be rejected (and the claim if no other valid service/Item) with the "reason code 10"
 
-Scenario: Service not for the right care type (in/out patient)
+Scenario: 14.2 Service not for the right care type (in/out patient)
 Given that the service @SC12 is for an 'out-patient'
 When the service @SC12 is added to a new claim @CM6
 And the claim @CM6 is submitted by @CA
 Then the service @SC12 must be rejected (and the claim if no other valid service/Item) with the "reason code 10"
+
+rule: 15 Item/Service must respect the frequency
+
+Scenario: 15.1 The Service already be provided within the item frequency period
+Given that the Service @SC15 has a waiting period set
+And the beneficiary @BE3 had the Service @SC15 already covered by his active policy @PL1 within the frequency period
+When this Service @SC15 is added to a new claim  @CM6
+And the claim @CM6 is submitted by @CA
+Then the Service @SC15 must be rejected (and the claim if no other valid service/Item) with the "reason code 5"
+
+
+Scenario: 15.2 The Item already be provided within the item frequency period
+Given that the Item @IT15 has a waiting period set
+And the beneficiary @BE3 had the Item @IT15 already covered by his active policy @PL1 within the frequency period
+When this Item @IT15 is added to a new claim  @CM6
+And the claim @CM6 is submitted by @CA
+Then the Item @IT15 must be rejected (and the claim if no other valid service/Item) with the "reason code 5"
 
